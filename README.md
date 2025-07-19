@@ -89,3 +89,12 @@ pickle.dump(scaler, open('scaler.pkl', 'wb'))
 Apply same preprocessing (scaling, encoding)
 
 Maintain feature order and structure as training data
+
+
+
+
+Output
+<img width="494" height="353" alt="image" src="https://github.com/user-attachments/assets/48b1ab24-1b5d-4b36-aeae-c3e97d1d89d0" />
+<img width="511" height="131" alt="image" src="https://github.com/user-attachments/assets/3ee5c6e6-52ac-46fb-b6be-71de817f0a7f" />
+
+
